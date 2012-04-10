@@ -1,0 +1,18 @@
+El proyecto Calculadora, está divido en 9 partes correspondiente a los 9 puntos de la prueba.
+Estos pertenecen al mismo proyecto en Java pero están separados por packages (Punto1, Punto2,...,Punto9).
+
+.../Punto9/Calculadora.java, contiene la totalidad de la prueba.
+
+Forma de ejecución:
+1.Ejecutar la clase Calculadora.java
+2. Ingresar los datos por consola.
+
+
+Forma en que se deben ingresar los datos:
+1. Después de ingresar los datos se deben dar dos enter (\n)
+Ejemplo:
+Input
+//[**][##][,,]\n10**20,,5\n4##3\n\n
+
+Output:
+42
